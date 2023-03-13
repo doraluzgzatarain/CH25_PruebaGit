@@ -10,4 +10,4 @@ Este proyecto incluye código `HTML` y está pensando para:
 
 ----
 
-### Gracias por tus aportaciones
+### Gracias por tus aportaciones y comentarios
