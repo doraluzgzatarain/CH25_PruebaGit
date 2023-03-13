@@ -5,6 +5,8 @@ Este proyecto incluye código `HTML` y está pensando para:
 2. Conocer
 3. Aprender
 4. Interactuar con GitHub
+5. Mejorar nuestras habilidades en GIT/Github
+6. Practicar para nuestro proyecto integrador
 
 ----
 
